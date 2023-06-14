@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-DATE: 03-06-2023
+### DATE :
 
 ## AIM:
 To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -114,9 +114,9 @@ The final part refers to the component or material after undergoing heat treatme
 
 ## Output:
 
-Name: SATHISH R
+### Name: AJAY ASWIN M
 
-Register Number: 212222100048
+### Register Number:212222240005 
 
 ## Result:
 Thus the simulation on the Postprocessing in additive manufacturing is completed.
